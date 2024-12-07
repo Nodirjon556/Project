@@ -28,3 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 /Practice_Concurency/IO_NIOpackage/Serializable/
+/Practice_Concurency/IO_NIOpackage/

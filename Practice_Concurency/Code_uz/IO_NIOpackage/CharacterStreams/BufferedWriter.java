@@ -14,7 +14,7 @@ public class BufferedWriter {
         bufferedWriter.newLine();
         bufferedWriter.write("abcd");
         bufferedWriter.newLine();
-        bufferedWriter.write(new char[]{'A','B'});
+        bufferedWriter.write(new char[]{'A', 'B'});
         bufferedWriter.flush();
         bufferedWriter.close();
     }

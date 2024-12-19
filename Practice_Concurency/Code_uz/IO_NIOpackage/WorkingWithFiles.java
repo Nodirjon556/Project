@@ -3,10 +3,10 @@ package Code_uz.IO_NIOpackage;
 import java.io.File;
 import java.io.IOException;
 
-public class Main {
+public class WorkingWithFiles {
     public static void main(String[] args) throws IOException {
         File file = new File("123.txt");
-       // System.out.println(file.exists());  // check
+        // System.out.println(file.exists());  // check
 
         /*if (!file.exists()){
            boolean answer =  file.createNewFile();  // create a file()
@@ -17,5 +17,6 @@ public class Main {
         System.out.println(res);*/
 
         System.out.println(file.isFile());
+
     }
 }

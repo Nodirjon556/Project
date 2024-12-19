@@ -5,7 +5,7 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        FileWriter fileWriter = new FileWriter("bir.txt");
+        FileWriter fileWriter = new FileWriter("bir.txt",true); // 1-constructor
         String line = System.getProperty("line.separator");
 
         fileWriter.write("Hello");

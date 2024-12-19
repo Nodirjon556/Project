@@ -34,7 +34,6 @@ public class WorkingWithFolders {
             if (subFile.isFile()) {
                 System.out.println("Bu file " + subFile.getName());
             } else {
-               // System.out.println(subFile.isHidden());
                 System.out.println("Bu Folder " + subFile.getName());
             }
         }

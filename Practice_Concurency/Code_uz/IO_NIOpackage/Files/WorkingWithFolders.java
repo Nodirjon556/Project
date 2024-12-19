@@ -1,7 +1,6 @@
-package Code_uz.IO_NIOpackage;
+package Code_uz.IO_NIOpackage.Files;
 
 import java.io.File;
-import java.util.logging.Filter;
 
 public class WorkingWithFolders {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Code_uz.IO_NIOpackage;
+package Code_uz.IO_NIOpackage.Files;
 
 import java.io.File;
 import java.io.IOException;

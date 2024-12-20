@@ -1,2 +1,11 @@
 hello
 how are you?
+B
+9
+A
+8
+D
+7
+C
+6
+K

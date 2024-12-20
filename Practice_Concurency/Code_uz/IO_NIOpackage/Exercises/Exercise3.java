@@ -19,7 +19,7 @@ public class Exercise3 {
                 BufferedReader bufferedReader = new BufferedReader(new FileReader(subFile));
                 String line;
 
-                while ((line = bufferedReader.readLine())!= null){
+                while ((line = bufferedReader.readLine()) != null) {
                     printWriter.println(line);
                 }
                 bufferedReader.close();

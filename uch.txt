@@ -1,10 +1,13 @@
-CHello
+Hello
+C
 I am 19 years old
+D
 I am from Uzbekistan
+E
 Salom Mening ismim Okilov Nodirjon
+F
 I am 19 years old
 I am from Uzbekistan
 test
 I am 19 years old
 I am from Uzbekistan
-C

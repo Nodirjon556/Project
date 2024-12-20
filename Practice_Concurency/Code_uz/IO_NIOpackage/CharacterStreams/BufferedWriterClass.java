@@ -1,14 +1,15 @@
 package Code_uz.IO_NIOpackage.CharacterStreams;
 
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class BufferedWriter {
+public class BufferedWriterClass {
     public static void main(String[] args) throws IOException {
         File file = new File("bir.txt");
         FileWriter out = new FileWriter(file);
-        java.io.BufferedWriter bufferedWriter = new java.io.BufferedWriter(out);
+        BufferedWriter bufferedWriter = new BufferedWriter(out);
 
         bufferedWriter.write(65);
         bufferedWriter.newLine();
